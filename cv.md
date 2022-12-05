@@ -9,7 +9,7 @@
 
 ## **About me**
 
-My goal is to become a front end developer. **my strengths are self-confidence, prudence and a great desire to acquire knowledge in the IT field.**
+My goal is to become a Front-end developer. **My strengths are self-confidence, prudence and a great desire to acquire knowledge in the IT field.**
 
 ## **Skills**
 
