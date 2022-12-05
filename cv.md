@@ -1,5 +1,3 @@
-# **RSSchool-cv**
-
 # **Artem Semibratov**
 
 ---
