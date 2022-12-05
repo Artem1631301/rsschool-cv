@@ -1,15 +1,15 @@
-#RSSchool-cv
+# **RSSchool-cv**
 
-#**Artem Semibratov**
+# **Artem Semibratov**
 
 ---
 
-##**Contacts**
+## **Contacts**
 
 - **Discord:** Artem(@Artem1631301)
 - **Telegram:** Artem7163
 
-##**About me**
+## **About me**
 
 My goal is to become a front end developer. **my strengths are self-confidence, prudence and a great desire to acquire knowledge in the IT field.**
 
@@ -19,7 +19,7 @@ My goal is to become a front end developer. **my strengths are self-confidence, 
 - _VS code_
 - _Git / GitHub_
 
-##**Code examples**
+## **Code examples**
 
     <html>
      <head>
@@ -33,10 +33,10 @@ My goal is to become a front end developer. **my strengths are self-confidence, 
        </body>
     </html>
 
-##**Work experience**
+## **Work experience**
 
 [Rsscool-cv](https://github.com/Artem1631301/rsschool-cv/blob/gh-pages/cv.md)
 
-##**Education**
+## **Education**
 
 My english is very bad
