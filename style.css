@@ -3,6 +3,14 @@
   src: url("assets/fonts/Roboto-Regular.ttf");
 }
 
+.section-profile-logo {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10%;
+  box-shadow: 0 1px 4px rgb(151, 23, 255);
+}
+
 body {
   font-family: "Roboto";
   font-size: 14px;
@@ -12,7 +20,8 @@ body {
   justify-content: space-between;
   margin: 0;
   padding: 0;
-  color: #575555;
+  color: #6f00ff;
+  background: #000000;
 }
 
 * {
@@ -20,7 +29,8 @@ body {
 }
 
 .header {
-  border: 1px solid red;
+  border: 1px solid rgb(255, 0, 0);
+  
 }
 
 .main {
@@ -32,10 +42,12 @@ body {
 }
 
 .nav-list {
+  font-size: 30px;
   display: flex;
   align-items: center;
   list-style: none;
-}
+  border: #6f00ff;
+  }
 
 html {
   scroll-behavior: smooth;
@@ -44,6 +56,7 @@ html {
 .nav-link {
   padding: 0 20px;
   line-height: 50px;
+  color: #6f00ff;
 }
 
 a {

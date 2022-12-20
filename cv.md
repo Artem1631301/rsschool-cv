@@ -19,17 +19,9 @@ My goal is to become a Front-end developer. **My strengths are self-confidence, 
 
 ## **Code examples**
 
-    <html>
-     <head>
-      <title>Основная задача кафе Starbuzz</title>
-     </head>
-    <body>
-    <h1>Основная задача кафе Starbuzz</h1>
-    <p>Обеспечить вас необходимым количеством
-     кофеина для поддержания жизненного тонуса.</p>
-    <p>Просто выпейте это.</p>
-       </body>
-    </html>
+    function multiply(a, b){
+              a * b
+            }
 
 ## **Work experience**
 
